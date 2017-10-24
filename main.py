@@ -1,6 +1,6 @@
 from random import randint
 board = []
-for x in range(5):
+for x in range(55):
     board.append(["O"] * 5)
 
 def print_board(board):
